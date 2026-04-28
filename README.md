@@ -1,16 +1,24 @@
 ## Hi there 👋
+I am an **Applied Informatics** student at the **Silesian University of Technology**, specializing in Applied Mathematics. I am a passionate software developer focused on building logical, data-driven applications that bridge the gap between mathematics and technology.
 
-<!--
-**wojjasko/wojjasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 Currently pursuing a degree at the **Silesian University of Technology**. My academic background is rooted in Data Structures, Algorithms, and Mathematics.
+* 🚀 Primary technical focus: Backend development (**Java/Spring Boot**).
+* 🛠️ I prioritize clean code, efficient database design (PostgreSQL), and solving complex business logic problems.
+* 💼 Looking for my first professional role or internship (available for on-site or hybrid work).
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Skills
+* **Languages:** Java (Spring Boot), C# (.NET/WPF), C++, SQL, Python.
+* **Web Technologies:** Spring Boot, Thymeleaf, HTML5, CSS3.
+* **Databases:** PostgreSQL, MySQL (Relational design, Query optimization).
+* **Tools:** Git, IntelliJ IDEA, Visual Studio, LaTeX, Wolfram Mathematica, PyCharm, LaTeX, Cisco Packet Tracer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Featured Projects
+* **[NBA Manager Web App](https://github.com/wojjasko/NBA-Manager-Database-Web-App)** – A comprehensive Spring Boot application featuring complex "Trade Machine" logic, Salary Cap management, and Luxury Tax calculations for the real NBA league. Integrated with PostgreSQL.
+* **[E-Shop Desktop App](https://github.com/wojjasko/E-Shop-Desktop-App)** – A WPF (C#) desktop application featuring dynamic product catalogs, a cart system, and promotional code validation logic.
+
+
+### ⚽ Hobbies & Interests
+* **Sports:** Huge fan of **Football** and **Basketball (NBA)** (which inspired my NBA project!).
+* **Gaming & Esport:** I follow competitive esports and enjoy playing computer games in my free time.
+* **Tech Trends:** Always keeping an eye on the latest IT news, hardware releases, and emerging software trends.
