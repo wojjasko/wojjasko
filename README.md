@@ -11,7 +11,7 @@ I am an **Applied Informatics** student at the **Silesian University of Technolo
 * **Languages:** Java (Spring Boot), C# (.NET/WPF), C++, SQL, Python.
 * **Web Technologies:** Spring Boot, Thymeleaf, HTML5, CSS3.
 * **Databases:** PostgreSQL, MySQL (Relational design, Query optimization).
-* **Tools:** Git, IntelliJ IDEA, Visual Studio, LaTeX, Wolfram Mathematica, PyCharm, LaTeX, Cisco Packet Tracer.
+* **Tools:** Git, IntelliJ IDEA, Visual Studio, Unity, Unreal Engine 5, Wolfram Mathematica, PyCharm, LaTeX, Cisco Packet Tracer.
 
 ### 🏆 Featured Projects
 * **[NBA Manager Web App](https://github.com/wojjasko/NBA-Manager-Database-Web-App)** – A comprehensive Spring Boot application featuring complex "Trade Machine" logic, Salary Cap management, and Luxury Tax calculations for the real NBA league. Integrated with PostgreSQL.
